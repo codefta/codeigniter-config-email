@@ -1,2 +1,6 @@
-# ci-config-email
-Simple Configuration for Sending email with gmail
+### ci-config-email
+
+Quick step
+
+First, put the file in your ```application/controllers/```
+Second, access the file on your browser
